@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Financial Learning and Quantitative Analysis 
 - 📫 Please reach me out through my email id - ikshityagi50@gmail.com
 - 😄 Pronouns: She/her 
-- ⚡ Fun fact: ...Born to spend money, forced to study it. 
+
 
 <!---
 Ikshi-hub/Ikshi-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
